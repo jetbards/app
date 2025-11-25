@@ -89,8 +89,7 @@ Researchers using our code should:
 
 **Primary Security Contact:** Hani Setiawan  
 **Email:** [hani.setiawan@binus.ac.id]  
-**Backup Contact:** Jetbar Runggu Hamonangan Doloksaribu 
-**Backup Contact:** Naufal Yafi 
+**Backup Contact:** Jetbar Runggu Hamonangan Doloksaribu, Naufal Yafi 
 **Institution:** Bina Nusantara University
 
 ## Data Provider Coordination
