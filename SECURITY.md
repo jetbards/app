@@ -38,7 +38,7 @@ The following versions of this research project are currently being supported wi
 **Please do NOT report security vulnerabilities through public GitHub issues.**
 
 **Preferred Method:**
-1. **Email**: Send details to research team at [your-team-email@binus.ac.id]
+1. **Email**: Send details to research team at [hani.setiawan@binus.ac.id]
 2. **Subject**: Use "SECURITY: Customer Churn Project Vulnerability"
 3. **Include**:
    - Description of the security concern
