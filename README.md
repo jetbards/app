@@ -152,9 +152,9 @@ Dashboard analisis prediktif untuk optimalisasi pendapatan layanan ICONNET di PT
 - Restart the dashboard if memory usage is high
 
 ## 👥 Team
-- **Hani Setiawan** (2702464202)
-- **Jetbar Runggu Hamonangan Doloksaribu** (2702462973)
-- **Naufal Yafi** (2702476240)
+- **Hani Setiawan** (hani.setiawan@binus.ac.id)
+- **Jetbar Runggu Hamonangan Doloksaribu** (jetbar.doloksaribu@binus.ac.id)
+- **Naufal Yafi** (naufal.yafi@binus.ac.id)
 
 ## 📧 Support
 Untuk pertanyaan teknis atau dukungan, silakan hubungi tim pengembang.
